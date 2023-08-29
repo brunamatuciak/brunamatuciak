@@ -1,4 +1,4 @@
-<h1>Olá 👋🏾 👩🏾‍💻, eu sou a Bru!</h1>
+<h1>Olá 👋🏾, eu sou a Bru!</h1>
 
 ![github-header-image1](https://user-images.githubusercontent.com/92685862/224550574-4f4ecf86-6697-4f0a-80e9-3f4aae9d7b5d.png)
 

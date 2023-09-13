@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunamatuciak&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact" alt="brunamatuciak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunamatuciak&show_icons=true&theme=tokyonight&locale=pt-br" alt="brunamatuciak" /></p>
+
+![Snake animation](https://github.com/brunamatuciak/brunamatuciak/blob/output/github-contribution-grid-snake.svg)

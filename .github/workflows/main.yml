@@ -27,4 +27,4 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ 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 }}

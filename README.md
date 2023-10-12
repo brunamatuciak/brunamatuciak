@@ -25,5 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunamatuciak&show_icons=true&theme=tokyonight&locale=pt-br" alt="brunamatuciak" /></p>
 
-## Snake eating my contribution graph
-![snake gif](https://github.com/brunamatuciak/brunamatuciak/blob/output/github-contribution-grid-snake.gif)

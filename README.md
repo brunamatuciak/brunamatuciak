@@ -3,7 +3,7 @@
 ![github-header-image1](https://user-images.githubusercontent.com/92685862/224550574-4f4ecf86-6697-4f0a-80e9-3f4aae9d7b5d.png)
 
 <h4>😄 Uma estudante de ciência da computação apaixonada por aprender <br>
-🌱 Atualmente eu estou aprendendo: Java, Pyhton e R<br>
+🌱 Atualmente eu estou aprendendo: React e SpringBoot<br>
 📫 brunasmguedes@gmail.com </h4> 
 
 <h3 align="left">Você pode me achar aqui:</h3>

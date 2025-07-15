@@ -1,47 +1,51 @@
 <h1>Olá 👋🏾, eu sou a Bru!</h1>
 
+**`Desenvolvedora Backend`**
+
 ![github-header-image1](https://user-images.githubusercontent.com/92685862/224550574-4f4ecf86-6697-4f0a-80e9-3f4aae9d7b5d.png)
 
-<h4>😄 Uma estudante de ciência da computação apaixonada por aprender <br>
-🌱 Atualmente eu estou aprendendo: React e SpringBoot<br>
-📫 brunasmguedes@gmail.com </h4> 
+Sou estudante de Ciência da Computação e apaixonada por tecnologia, aprendizado constante e construção de soluções que fazem sentido na prática. Atualmente atuo como Analista de Sistemas em uma fintech, mas também me envolvo em projetos sociais e acadêmicos que me desafiam a sair da zona de conforto. Gosto de resolver problemas, aprender coisas novas e transformar ideias em código.
 
 <h3 align="left">Você pode me achar aqui:</h3>
 <p align="left">
   <a href="https://dev.to/brusanguini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brusanguini" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brunasanguini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunasanguini" height="30" width="40" /></a>
 <a href="https://instagram.com/bru.sanguini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bru.sanguini" height="30" width="40" /></a>
-
-
 </p>
 
+---
 
+### 🤖 Linguagens e Tecnologias
 
-<h3 align="left">Estou aprendendo:</h3>
-<p align="left"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-</p>
-
-<h3 align="left">Tecnologias:</h3>
 <p align="left">
-  <b>Databases</b><br>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/><br>
-  <b>Frameworks, Platforms and Libraries</b><br>
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><br>
+  <!-- Frameworks e Linguagens -->
+  <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+  <img align="left" alt="Hibernate" title="Hibernate" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"/>
+  <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 
-  <b>Hosting/SaaS</b><br>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br>
-  <b>Languages</b><br>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <!-- Cloud & DevOps -->
+  <img align="left" alt="AWS" title="Amazon Web Services" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img align="left" alt="Azure" title="Microsoft Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
+  <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img align="left" alt="Kubernetes" title="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg"/>
+  <img align="left" alt="Terraform" title="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
 
+  <!-- Bancos de Dados -->
+  <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+
+  <!-- APIs -->
+  <img align="left" alt="Swagger" title="OpenAPI / Swagger" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"/>
+
+  <!-- Testes e Monitoramento -->
+   <!-- Não tem ícone próprio de JUnit -->
+  <img align="left" alt="Postman" title="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+  <img align="left" alt="Splunk" title="Splunk" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/splunk/000000"/>
 </p>
+
+<br><br>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunamatuciak&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact" alt="brunamatuciak" /></p>
 
